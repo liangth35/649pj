@@ -1,0 +1,23 @@
+﻿Characteristic,Type,Percent,Strongly agree that understanding PWD is valuable to them as physician,Strongly agree that PWD are treated unfairly in health system,Rates quality of life for PWD as worse,Very confident about providing same quality of care for PWD
+Gender,Male,62,75.5,17.8,83.3,43.7
+Gender,Female,38,86.2,18.6,80.7,34.9
+Race/ethnicity,White,64.5,76.3,18.7,83.3,36.4
+Race/ethnicity,Asian,17.3,83.9,18.4,84.9,44
+Race/ethnicity,Hispanic/African American/other,18.2,87.1,15.9,78.9,52.1
+Self or family member has any significant disability,Yes,36.2,79.4,19.4,84,35.8
+Self or family member has any significant disability,No,63.8,79.8,17.7,81.7,42.3
+Primary specialty,Primary care,64.1,81.9,18.1,81.8,37.7
+Primary specialty,Specialty care,35.9,76.2,18,83.6,46.2
+Years since graduating from medical school,<20,33.5,75.3,20.2,84.4,34.6
+Years since graduating from medical school,20+,66.5,82.5,17.3,81.7,43.1
+Practice type,Academic teaching hospital,16.5,77.5,28.1,79.6,26.7
+Practice type,Private practice in community,61.7,79.3,16.2,82.7,45.7
+Practice type,Other,21.8,83.2,15.5,83.3,37.5
+No. of physicians in practice,Very small (1–3),33.2,81,17.9,81.3,47.3
+No. of physicians in practice,Small (4–11),47.4,79.4,16.6,83.7,38.4
+No. of physicians in practice,Large (12+),19.4,79.3,22.5,82.1,36.1
+No. of patients seen per week,Low (<60),31.1,78.8,26.1,85.2,33.5
+No. of patients seen per week,Medium (60–80),33.6,79.7,16.9,81.3,39.7
+No. of patients seen per week,High (81+),35.3,80.3,12.7,81.2,47
+Percent of patients with Medicaid or uninsured,Non-safety-net provider (>35%),68,78.9,18.6,86.1,39.7
+Percent of patients with Medicaid or uninsured,Safety-net provider (35%+),32,79.8,16.2,78.6,41.8

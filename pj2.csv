@@ -1,0 +1,45 @@
+Characteristic,Type,Percent,Answer,Strongly agree that understanding PWD is valuable to them as physician,Strongly agree that PWD are treated unfairly in health system,Rates quality of life for PWD as worse,Very confident about providing same quality of care for PWD
+Gender,Male,0.62,Yes,0.755,0.178,0.833,0.437
+Gender,Male,0.62,No,0.245,0.822,0.167,0.563
+Gender,Female,0.38,Yes,0.862,0.186,0.807,0.349
+Gender,Female,0.38,No,0.138,0.814,0.193,0.651
+Race/ethnicity,White,64.5,Yes,0.763,0.187,0.833,0.364
+Race/ethnicity,White,64.5,No,0.237,0.813,0.167,0.636
+Race/ethnicity,Asian,17.3,Yes,0.839,0.184,0.849,0.44
+Race/ethnicity,Asian,17.3,No,0.161,0.816,0.151,0.56
+Race/ethnicity,Other,18.2,Yes,0.871,0.159,0.789,0.521
+Race/ethnicity,Other,18.2,No,0.129,0.841,0.211,0.479
+Self or family member has any significant disability,Yes,36.2,Yes,0.794,0.194,0.84,0.358
+Self or family member has any significant disability,Yes,36.2,No,0.206,0.806,0.16,0.642
+Self or family member has any significant disability,No,63.8,Yes,0.798,0.177,0.817,0.423
+Self or family member has any significant disability,No,63.8,No,0.202,0.823,0.183,0.577
+Primary specialty,Primary care,64.1,Yes,0.819,0.181,0.818,0.377
+Primary specialty,Primary care,64.1,No,0.181,0.819,0.182,0.623
+Primary specialty,Specialty care,35.9,Yes,0.762,0.18,0.836,0.462
+Primary specialty,Specialty care,35.9,No,0.238,0.82,0.164,0.538
+Years since graduating from medical school,<20,33.5,Yes,0.753,0.202,0.844,0.346
+Years since graduating from medical school,<20,33.5,No,0.247,0.798,0.156,0.654
+Years since graduating from medical school,20+,66.5,Yes,0.825,0.173,0.817,0.431
+Years since graduating from medical school,20+,66.5,No,0.175,0.827,0.183,0.569
+Practice type,Academic teaching hospital,16.5,Yes,0.775,0.281,0.796,0.267
+Practice type,Academic teaching hospital,16.5,No,0.225,0.719,0.204,0.733
+Practice type,Private practice in community,61.7,Yes,0.793,0.162,0.827,0.457
+Practice type,Private practice in community,61.7,No,0.207,0.838,0.173,0.543
+Practice type,Other,21.8,Yes,0.832,0.155,0.833,0.375
+Practice type,Other,21.8,No,0.168,0.845,0.167,0.625
+No. of physicians in practice,Very small (1-3),33.2,Yes,0.81,0.179,0.813,0.473
+No. of physicians in practice,Very small (1-4),33.2,No,0.19,0.821,0.187,0.527
+No. of physicians in practice,Small (4-11),47.4,Yes,0.794,0.166,0.837,0.384
+No. of physicians in practice,Small (4-12),47.4,No,0.206,0.834,0.163,0.616
+No. of physicians in practice,Large (12+),19.4,Yes,0.793,0.225,0.821,0.361
+No. of physicians in practice,Large (13+),19.4,No,0.207,0.775,0.179,0.639
+No. of patients seen per week,Low (<60),31.1,Yes,0.788,0.261,0.852,0.335
+No. of patients seen per week,Low (<61),31.1,No,0.212,0.739,0.148,0.665
+No. of patients seen per week,Medium (60-80),33.6,Yes,0.797,0.169,0.813,0.397
+No. of patients seen per week,Medium (60-81),33.6,No,0.203,0.831,0.187,0.603
+No. of patients seen per week,High (81+),35.3,Yes,0.803,0.127,0.812,0.47
+No. of patients seen per week,High (82+),35.3,No,0.197,0.873,0.188,0.53
+Percent of patients with Medicaid or uninsured,Non-safety-net provider (>35%),68,Yes,0.789,0.186,0.861,0.397
+Percent of patients with Medicaid or uninsured,Non-safety-net provider (>36%),68,No,0.211,0.814,0.139,0.603
+Percent of patients with Medicaid or uninsured,Safety-net provider (35%+),32,Yes,0.798,0.162,0.786,0.418
+Percent of patients with Medicaid or uninsured,Safety-net provider (36%+),32,No,0.202,0.838,0.214,0.582

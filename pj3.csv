@@ -1,0 +1,54 @@
+id,LocationAbbr,State,Question,Category,Response,Disabled,Non-disabled,Difference
+,,,,,,,,
+1,AL,Alabama,Mammogram in Past 2 Years,Prevention & Screenings,Yes,75.4,80.6,5.19999999999999
+2,AK,Alaska,Mammogram in Past 2 Years,Prevention & Screenings,Yes,68.3,70.4,2.10000000000001
+4,AZ,Arizona,Mammogram in Past 2 Years,Prevention & Screenings,Yes,68.4,77.1,8.69999999999999
+5,AR,Arkansas,Mammogram in Past 2 Years,Prevention & Screenings,Yes,69.8,77.1,7.3
+6,CA,California,Mammogram in Past 2 Years,Prevention & Screenings,Yes,70.3,78.5,8.2
+8,CO,Colorado,Mammogram in Past 2 Years,Prevention & Screenings,Yes,68.3,73.5,5.2
+9,CT,Connecticut,Mammogram in Past 2 Years,Prevention & Screenings,Yes,73.3,84.5,11.2
+10,DE,Delaware,Mammogram in Past 2 Years,Prevention & Screenings,Yes,72.9,80.7,7.8
+11,DC,District of Columbia,Mammogram in Past 2 Years,Prevention & Screenings,Yes,80.8,81.7,0.900000000000006
+12,FL,Florida,Mammogram in Past 2 Years,Prevention & Screenings,Yes,73.6,82.2,8.60000000000001
+13,GA,Georgia,Mammogram in Past 2 Years,Prevention & Screenings,Yes,71.7,81.4,9.7
+15,HI,Hawaii,Mammogram in Past 2 Years,Prevention & Screenings,Yes,82.6,84.2,1.60000000000001
+16,ID,Idaho,Mammogram in Past 2 Years,Prevention & Screenings,Yes,70.9,72.2,1.3
+17,IL,Illinois,Mammogram in Past 2 Years,Prevention & Screenings,Yes,73.8,82.5,8.7
+18,IN,Indiana,Mammogram in Past 2 Years,Prevention & Screenings,Yes,69.4,75.3,5.89999999999999
+19,IA,Iowa,Mammogram in Past 2 Years,Prevention & Screenings,Yes,77.3,82.2,4.90000000000001
+20,KS,Kansas,Mammogram in Past 2 Years,Prevention & Screenings,Yes,65.7,76.9,11.2
+21,KY,Kentucky,Mammogram in Past 2 Years,Prevention & Screenings,Yes,74.5,77,2.5
+22,LA,Louisiana,Mammogram in Past 2 Years,Prevention & Screenings,Yes,76.5,85.6,9.09999999999999
+23,ME,Maine,Mammogram in Past 2 Years,Prevention & Screenings,Yes,82.3,82.9,0.600000000000009
+24,MD,Maryland,Mammogram in Past 2 Years,Prevention & Screenings,Yes,77.8,82.4,4.60000000000001
+25,MA,Massachusetts,Mammogram in Past 2 Years,Prevention & Screenings,Yes,84.1,87.4,3.30000000000001
+26,MI,Michigan,Mammogram in Past 2 Years,Prevention & Screenings,Yes,76.3,80.6,4.3
+27,MN,Minnesota,Mammogram in Past 2 Years,Prevention & Screenings,Yes,73.3,80.9,7.60000000000001
+28,MS,Mississippi,Mammogram in Past 2 Years,Prevention & Screenings,Yes,71.3,75,3.7
+29,MO,Missouri,Mammogram in Past 2 Years,Prevention & Screenings,Yes,73.7,78.5,4.8
+30,MT,Montana,Mammogram in Past 2 Years,Prevention & Screenings,Yes,66.1,75.7,9.60000000000001
+31,NE,Nebraska,Mammogram in Past 2 Years,Prevention & Screenings,Yes,67.8,79.6,11.8
+32,NV,Nevada,Mammogram in Past 2 Years,Prevention & Screenings,Yes,78.4,75.6,-2.80000000000001
+33,NH,New Hampshire,Mammogram in Past 2 Years,Prevention & Screenings,Yes,78.1,78.1,0
+34,NJ,New Jersey,Mammogram in Past 2 Years,Prevention & Screenings,Yes,72.4,80.4,8
+35,NM,New Mexico,Mammogram in Past 2 Years,Prevention & Screenings,Yes,73.6,75.4,1.80000000000001
+36,NY,New York,Mammogram in Past 2 Years,Prevention & Screenings,Yes,78.3,83.7,5.40000000000001
+37,NC,North Carolina,Mammogram in Past 2 Years,Prevention & Screenings,Yes,73.6,82.8,9.2
+38,ND,North Dakota,Mammogram in Past 2 Years,Prevention & Screenings,Yes,66.8,83.5,16.7
+39,OH,Ohio,Mammogram in Past 2 Years,Prevention & Screenings,Yes,73.3,80.5,7.2
+40,OK,Oklahoma,Mammogram in Past 2 Years,Prevention & Screenings,Yes,69.1,74.7,5.60000000000001
+41,OR,Oregon,Mammogram in Past 2 Years,Prevention & Screenings,Yes,76.8,79.3,2.5
+42,PA,Pennsylvania,Mammogram in Past 2 Years,Prevention & Screenings,Yes,73.8,83,9.2
+44,RI,Rhode Island,Mammogram in Past 2 Years,Prevention & Screenings,Yes,75.7,88.8,13.1
+45,SC,South Carolina,Mammogram in Past 2 Years,Prevention & Screenings,Yes,74.9,80.9,6
+46,SD,South Dakota,Mammogram in Past 2 Years,Prevention & Screenings,Yes,69.7,83.7,14
+47,TN,Tennessee,Mammogram in Past 2 Years,Prevention & Screenings,Yes,73.5,79.2,5.7
+48,TX,Texas,Mammogram in Past 2 Years,Prevention & Screenings,Yes,70,81.3,11.3
+49,UT,Utah,Mammogram in Past 2 Years,Prevention & Screenings,Yes,69.9,71.8,1.89999999999999
+50,VT,Vermont,Mammogram in Past 2 Years,Prevention & Screenings,Yes,69,76.5,7.5
+51,VA,Virginia,Mammogram in Past 2 Years,Prevention & Screenings,Yes,77.5,80,2.5
+53,WA,Washington,Mammogram in Past 2 Years,Prevention & Screenings,Yes,72.4,75.8,3.39999999999999
+54,WV,West Virginia,Mammogram in Past 2 Years,Prevention & Screenings,Yes,72.2,81.4,9.2
+55,WI,Wisconsin,Mammogram in Past 2 Years,Prevention & Screenings,Yes,76.9,82.3,5.39999999999999
+56,WY,Wyoming,Mammogram in Past 2 Years,Prevention & Screenings,Yes,54.6,69.6,15
+72,PR,Puerto Rico,Mammogram in Past 2 Years,Prevention & Screenings,Yes,83.1,83.1,0
