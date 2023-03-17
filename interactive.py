@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import altair as alt
 import streamlit as st
-from vega_datasets import data
+
 df=pd.read_csv('pj3.csv')
 df=df[df.Question=='Mammogram in Past 2 Years']
 state_map = data.us_10m.url
